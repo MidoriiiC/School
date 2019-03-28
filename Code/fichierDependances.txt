@@ -1,0 +1,53 @@
+
+
+
+
+
+	Ce document sert à montrer l'utilité de certains fichiers
+	et pour quelle partie.
+
+
+
+
+
+
+
+		~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+Pour le jeu en général:
+
+     Main					   (lancement)
+     Save      		 	    (qui n'est pas très utile)
+     Partie   	         (vivant toute la durée d'utilisation)
+     Traitement  (barre de chargement pour fermer une fenêtre)
+
+
+		~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+
+Pour le menu de démarrage:
+
+     EcranAccueil          (fenêtre)
+     ControleurSouris   (contrôleur)
+     NavigationAccueil     (boutons)
+     Bouton 		   (boutons)
+     PanelFond  	 (wallpaper)
+
+
+		~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+
+Pour le jeu en lui-même:
+
+     Joueur			(set de données)
+     SaveClass			(set de données)    -not use-
+     FondSalle			     (wallpaper)
+     Jabel			(carré de 50x50)
+     Eleve			(set de données)
+     EcranJeu			       (fenêtre)
+     Controleur			    (contrôleur)
+
+
+		~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+
+
+
+Très conséquents: fenêtres et controleurs
+réduire?

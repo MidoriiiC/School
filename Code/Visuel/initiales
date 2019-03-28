@@ -1,0 +1,66 @@
+
+taille de fenêtre: xxx
+donne 16 (-2 pour le bord donc 14 jouables) colonnes et 10 (-2 pour le bord donc 8) lignes
+
+initiales utilisées:
+
+J pour le joueur principal
+
+
+
+- - - - - - - PNJ - - - - - - -
+
+i pour girl1 => Alexa
+
+j pour girl2 => lolita ==> lLili
+
+k pour girl3 => Héloïse
+
+l pour girl4  => Midori
+
+m pour boy1
+
+n pour boy2 => sportif
+
+o pour boy3
+
+p pour boy4 => lol
+
+
+- - - - - - - Construction - - - - - - -
+
+
+S pour une case de sol
+
+M pour une case du mur
+
+% pour le vide
+
+E pour une entrée/sortie
+
+
+
+- - - - - - - Meubles - - - - - - -
+
+a pour bureau du joueur féminin déléguée
+
+b pour bureau du joueur féminin déléguée + feuille
+
+c pour bureau du joueur masculin délégué
+
+d pour bureau du joueur masculin délégué + feuille
+
+e pour bureau du joueur populaire
+
+f pour bureau du joueur populaire + feuille
+
+g pour bureau du joueur racaille
+
+h pour bureau du joueur racaille + feuille
+
+
+t pour un bureau lambda
+
+u pour un bureau lambda + feuille
+
+
